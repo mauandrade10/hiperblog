@@ -1,7 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
 body{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: blue;
+    color: #333;
     font-size: 16px;
 }
 
@@ -13,7 +21,7 @@ body{
 }
 
 .post{
-    padding: 1em;
+    padding: 1rem;
 }
 
 .cabecera{
@@ -28,12 +36,12 @@ body{
 .cabecera .tagline{
     padding: 0 0 0 0.5em;
     font-weight: normal;
-    font-size: 0.8rem;
+    font-size: 1.5rem;
 
 }
 
 
 .container h1{
-    font-size: 20px;
+    font-size: 2rem;
 }
 
