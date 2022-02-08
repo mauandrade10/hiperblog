@@ -52,3 +52,10 @@ body{
     font-size: 2rem;
 }
 
+.footer{
+    background: grey;
+    color: white;
+    text-align: center;
+    padding: 0.5px;
+}
+
